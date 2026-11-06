@@ -19,8 +19,8 @@
 #include <DallasTemperature.h>
 
 // access credentials for WiFi network.
-const char *ssid = "Acadia-DeviceNet";
-const char *password = "AcadiaIOT";
+const char *ssid = "***************";
+const char *password = "***********";
 
 
 // WiFi server. Listen on port 80, which is the default TCP port for HTTP
